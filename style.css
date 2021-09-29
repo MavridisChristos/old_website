@@ -148,7 +148,7 @@ address {
 }
 
 #current {
-	background-color: #DEE6EA;
+	background-color: #CDD4DF; /* DEE6EA */
 	text-decoration: none;
 }
 
@@ -163,7 +163,7 @@ address {
 }
 
 #nav a:hover {
-	background-color: #BDCED4;
+	background-color: #9DBFF2; /* BDCED4 */
 	text-decoration: none;
 }    
 
