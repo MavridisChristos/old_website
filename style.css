@@ -1,12 +1,15 @@
 body {
-	background-color: #DFE7F2; 	 /* F0F0E8, DFE7F2, EBF4FF */
+	background-color: #F5FBFD; 	 /* F0F0E8, DFE7F2, EBF4FF */
 }
 
 div.plane {
-	background-color: #F5FBFD;
+	/*background-color: #F5FBFD; */
+	background-color: #FFFFFF;
 	color: #313233; 
 	margin: 0 8em 0 8em;
 	min-width: 55em;
+	border-left-style: groove;
+	border-top-style: groove;
 	border-right-style: groove;
 	border-bottom-style: groove;
 	border-radius:2%;
