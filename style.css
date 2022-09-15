@@ -1,18 +1,18 @@
 body {
-	background-color: #F5FBFD; 	 /* F0F0E8, DFE7F2, EBF4FF */
+	background-color: #FFFFFF; 	 /* F5FBFD, F0F0E8, DFE7F2, EBF4FF */
 }
 
 div.plane {
 	/*background-color: #F5FBFD; */
 	background-color: #FFFFFF;
 	color: #313233; 
-	margin: 0 8em 0 8em;
+	margin: 0 24em 0 24em;
 	min-width: 55em;
-	border-left-style: groove;
-	border-top-style: groove;
-	border-right-style: groove;
-	border-bottom-style: groove;
-	border-radius:2%;
+	border-left-style: hidden; /* none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit */
+	border-top-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: hidden;
+	border-radius:0%;
 }
 
 hr {
@@ -138,7 +138,7 @@ address {
 	font-size: large;
 	text-align: right;
 	list-style-type: none;
-	margin: 0.5em 8em 0.5em 0em;
+	margin: 0.5em 24em 0.5em 0em;
 	min-width: 55em;
 	overflow: hidden;
 }
