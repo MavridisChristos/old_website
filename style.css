@@ -146,6 +146,7 @@ address {
 	font-size: large;
 	text-align: right;
 	list-style-type: none;
+	min-width: 50em;
 	width:50%;
     margin-left:auto;
     margin-right:auto;
